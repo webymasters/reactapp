@@ -2,4 +2,21 @@ body {
 	margin: 0;
 	background-color: lightgrey;
 	font: 1em helvetica, arial, sans-serif;
+	padding: 3em;
+}
+.productcard {
+
+	border: 5px solid black;
+	width: 20em;
+	margin-top: 2em;
+	padding: 1em;
+	text-align: center;
+	background-color: white;
+}
+.productcard img {
+ 
+	width: 10em;
+	height: 10em;
+	margin-top: 25px;
+
 }

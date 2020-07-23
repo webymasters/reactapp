@@ -1,6 +1,10 @@
 import React from 'react'
 
-const Product = ({name , img , price}) => {
+
+
+
+
+const Product = ({ id ,name , img , price}) => {
     const ShopCart = (event) => {
         alert(`${name} added to the cart.`)
     }
